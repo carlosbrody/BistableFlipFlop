@@ -4,11 +4,12 @@ Code to run decision-making dynamics in a mutual-inhibition bistable attractor s
 To use this package,
 
 1. Install the [Julia language](https://julialang.org/).
-2. Change directory to this package's directory
-3. Open a Julia session
-4. Within Julia, type `using Pkg; pkg"add PyPlot; add LinearAlgebra; add Statistics`
-5. Within Julia, type `include("moduleBistableFlipFlop")`
-6. You're set
+2. Clone this repo.
+3. Change directory to this package's directory
+4. Open a Julia session
+5. Within Julia, type `using Pkg; pkg"add PyPlot; add LinearAlgebra; add Statistics`
+6. Within Julia, type `include("moduleBistableFlipFlop")`
+7. You're set
 
 From here, within the Julia session, you can type `decisionMake()` to run the main decision-making function.
 
