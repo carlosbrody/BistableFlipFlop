@@ -7,7 +7,7 @@ To use this package,
 2. Clone this repo.
 3. Change directory to this package's directory
 4. Open a Julia session
-5. Within Julia, type `using Pkg; pkg"add PyPlot; add LinearAlgebra; add Statistics`
+5. Within Julia, type `using Pkg; pkg"add PyPlot; add LinearAlgebra; add Statistics"`
 6. Within Julia, type `include("moduleBistableFlipFlop")`
 7. You're set
 
